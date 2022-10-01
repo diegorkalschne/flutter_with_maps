@@ -11,4 +11,4 @@ Projeto mostrando a integração do Flutter com o Google Maps
 
 - Não esqueça de alterar as chaves de API no AndroidManifest.xml ou no AppDelegate.swift para o projeto rodar corretamente.
 
-Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Integrando o Google Maps no Flutter]()
+Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Integrando o Google Maps no Flutter](https://medium.com/@diegokalschne/integrando-o-google-maps-no-flutter-d254a72d65c8)
